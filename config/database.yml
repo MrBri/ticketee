@@ -17,7 +17,7 @@ development:
   encoding: unicode
   database: ticketee_development
   pool: 5
-  username: ticketee
+  username: Ty
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -43,7 +43,7 @@ test: &test
   encoding: unicode
   database: ticketee_test
   pool: 5
-  username: ticketee
+  username: Ty
   password:
 
 production:
@@ -51,7 +51,7 @@ production:
   encoding: unicode
   database: ticketee_production
   pool: 5
-  username: ticketee
+  username: Ty
   password:
 
 cucumber:
